@@ -8,7 +8,7 @@ The standout feature is its ability to perform **online learning**: users can co
 
 -----
 
-## Features
+## 🧩Features
 
   * **Real-time Recognition**: Draw a character on an HTML canvas and get an instant prediction.
   * **36 Classes**: Recognizes all 10 digits (0-9) and 26 lowercase letters (a-z).
@@ -110,3 +110,19 @@ Open your web browser and navigate to:
 **`http://localhost:5000`**
 
 You can now draw on the canvas, click **Predict** to see the result, or enter the correct label and click **Train with this** to help the model learn.
+
+## 📸Screenshots:
+
+### Prediction:
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/bc3234e8-6373-451c-9ca6-fea7c547ded8" />
+
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/7b97d721-953f-41b1-b4bf-4c93c9d23828" />
+
+-----
+
+### Training:
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/13e3e608-3e0f-4c13-9ed5-da066293ab9f" />
+
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/8cc7a926-2d32-4dc8-a00b-45191d32e02d" />
+
+-----
